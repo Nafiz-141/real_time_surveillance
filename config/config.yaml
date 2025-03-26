@@ -1,0 +1,49 @@
+# System Configuration
+system:
+  frame_interval: 5  # Extract frame every N frames
+  buffer_size: 30    # Number of frames to keep in buffer for sequence analysis
+  gpu_enabled: true  # Use GPU for inference
+  max_latency: 2.0   # Maximum allowed latency in seconds
+
+# Models
+models:
+  object_detection:
+    model_type: "yolov8n"  # YOLOv8 nano model
+    confidence_threshold: 0.5
+    classes: [0]  # Person class only (COCO dataset index)
+    
+  activity_recognition:
+    model_type: "lstm"
+    hidden_size: 128
+    num_layers: 2
+    dropout: 0.2
+    sequence_length: 16
+    num_classes: 11  # Number of activity classes in SPHAR
+    
+  text_generator:
+    template_based: true
+    templates:
+      - "A person is {activity} in the surveillance area."
+      - "The camera detected a person {activity}."
+      - "Surveillance shows a human {activity}."
+
+# Data
+data:
+  sphar_dataset:
+    path: "./datasets/SPHAR/"
+    train_split: 0.6
+    val_split: 0.2
+    test_split: 0.2
+    
+# Logging
+logging:
+  level: "INFO"
+  log_file: "./logs/surveillance.log"
+  activity_log: "./logs/activities.json"
+  
+# Interface
+interface:
+  window_width: 1280
+  window_height: 720
+  theme: "dark"
+  update_interval: 100  # ms

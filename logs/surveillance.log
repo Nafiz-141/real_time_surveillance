@@ -1,0 +1,56 @@
+2025-03-24 23:02:24,145 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-24 23:02:24,177 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-24 23:02:26,870 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-24 23:02:26,873 - models.activity_recognition - WARNING - No pre-trained activity recognition model provided. Using untrained model.
+2025-03-26 03:33:42,382 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 03:33:42,405 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 03:33:42,457 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 03:33:42,460 - models.activity_recognition - WARNING - No pre-trained activity recognition model provided. Using untrained model.
+2025-03-26 03:38:16,720 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 03:38:16,740 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 03:38:16,789 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 03:38:16,792 - models.activity_recognition - WARNING - No pre-trained activity recognition model provided. Using untrained model.
+2025-03-26 03:40:30,962 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 03:40:30,982 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 03:40:31,067 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 03:40:31,071 - models.activity_recognition - ERROR - Failed to load activity recognition model: [Errno 13] Permission denied: './'
+2025-03-26 03:41:59,694 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 03:41:59,716 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 03:41:59,763 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 03:41:59,836 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 10:47:32,269 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 10:47:32,363 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 10:47:32,459 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 10:47:32,558 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 12:47:32,150 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 12:47:32,896 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 12:47:32,991 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 12:47:33,089 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 12:51:44,200 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 12:51:44,222 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 12:51:44,266 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 12:51:44,343 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 12:53:44,351 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 12:53:44,371 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 12:53:44,414 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 12:53:44,485 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 13:02:22,096 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 13:02:22,131 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 13:02:22,171 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 13:02:22,234 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 13:03:13,400 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 13:03:13,420 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 13:03:13,460 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 13:03:13,526 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 13:04:24,171 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 13:04:24,192 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 13:04:24,233 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 13:04:24,300 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 13:11:53,762 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 13:11:53,784 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 13:11:53,829 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 13:11:53,969 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth
+2025-03-26 13:17:21,165 - __main__ - INFO - Starting Real-Time AI-Powered Video Surveillance System
+2025-03-26 13:17:21,188 - __main__ - INFO - Using GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+2025-03-26 13:17:21,229 - models.object_detection - INFO - Loaded YOLOv8 model: yolov8n
+2025-03-26 13:17:21,296 - models.activity_recognition - INFO - Loaded activity recognition model from models/activity_recognition.pth

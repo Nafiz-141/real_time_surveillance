@@ -1,0 +1,18 @@
+real_time_surveillance/
+├── config/
+│   └── config.yaml          # Configuration parameters
+├── data/
+│   ├── preprocessing.py     # Data preprocessing utilities
+│   └── sphar_dataset.py     # SPHAR dataset loader
+├── models/
+│   ├── activity_recognition.py  # LSTM model for activity recognition
+│   ├── object_detection.py      # YOLOv8 wrapper
+│   └── text_generator.py        # Text generation for descriptions
+├── utils/
+│   ├── visualization.py     # Visualization tools
+│   └── logger.py            # Logging utilities
+├── interface/
+│   ├── dashboard.py         # User interface dashboard
+│   └── settings.py          # Configuration interface
+├── main.py                  # Application entry point
+└── requirements.txt         # Dependencies

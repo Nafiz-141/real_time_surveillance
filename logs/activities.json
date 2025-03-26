@@ -1,0 +1,3547 @@
+[
+  {
+    "timestamp": "2025-03-24 23:02:36",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:36",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:36",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:37",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:37",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:37",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:37",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:38",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:38",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:38",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:38",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:38",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:40",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:40",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:41",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:41",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:41",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:42",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:42",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:42",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:43",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:43",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:43",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:44",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:44",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:44",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:45",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:45",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:45",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:46",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:46",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:46",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:47",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:47",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:47",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:48",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:48",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:48",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:49",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:49",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:50",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:50",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:50",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:51",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:51",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:51",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:52",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:52",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:52",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:53",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:53",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:53",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:55",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:55",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:55",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:56",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:56",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:57",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:57",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:57",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:58",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:58",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:58",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:58",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:59",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:02:59",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:00",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:00",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:00",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:01",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:01",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:01",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:02",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:02",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:02",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:03",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:03",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:03",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:04",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:05",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:05",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:05",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:05",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:06",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:06",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:06",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:07",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:07",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:07",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:08",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:08",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:09",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:09",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:09",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:10",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:10",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:10",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:11",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:11",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:11",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:12",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:12",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:12",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:14",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:14",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:15",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:15",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:15",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:16",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:16",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:18",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:18",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:18",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:20",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:20",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:21",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:21",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:21",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:23",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:23",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:23",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:24",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:24",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:24",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:25",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:25",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:25",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:26",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:26",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:26",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:27",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:28",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:28",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:28",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:29",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:29",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:29",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:30",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:30",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:30",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:31",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-24 23:03:31",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:51",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:51",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:51",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:52",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:52",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:52",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:53",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:53",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:53",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:54",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:54",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:55",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:55",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:55",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:56",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:56",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:56",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:57",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:57",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:58",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:58",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:58",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:59",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:59",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:33:59",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:00",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:00",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:00",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:01",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:01",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:01",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:02",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:02",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:02",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:03",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:03",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:03",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:04",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:05",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:05",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:05",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:06",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:06",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:06",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:07",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:07",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:07",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:08",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:08",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:09",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:09",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:09",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:10",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:10",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:10",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:11",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:11",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:12",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:12",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:12",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:13",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:13",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:13",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:14",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:14",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:14",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:15",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:15",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:15",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:16",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:16",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:16",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:17",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:17",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:17",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:18",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:18",
+    "activity": "waving",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:18",
+    "activity": "standing",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:19",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:19",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:20",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:20",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:20",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:21",
+    "activity": "standing",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:21",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:22",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:22",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:22",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:23",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:23",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:23",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:34:24",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:25",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:25",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:26",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:26",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:27",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:27",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:27",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:28",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:28",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:28",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:38:29",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:39",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:39",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:40",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:40",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:41",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:41",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:41",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:42",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:42",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:43",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:43",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:45",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:40:45",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:08",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:08",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:09",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:09",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:09",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:10",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:10",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:10",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:11",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:11",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:11",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:12",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:12",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:13",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:14",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:14",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:14",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:15",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:15",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:15",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:16",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:16",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:17",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:17",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:17",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:18",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:18",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:18",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:20",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:20",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:20",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:21",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:21",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:23",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:23",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:23",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:24",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:24",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:25",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:25",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:25",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:26",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:26",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:26",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:27",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:27",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:28",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:28",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:28",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:29",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:29",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:29",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:30",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:30",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:30",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:31",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:31",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:31",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:32",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:32",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:32",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:33",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:33",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:33",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:34",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:34",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:34",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:35",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:35",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:36",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:36",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:36",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:37",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:37",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:37",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:38",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:38",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:38",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:39",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:39",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:39",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:40",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:40",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:40",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:41",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:41",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:41",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:42",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:42",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:42",
+    "activity": "bending",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:43",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:43",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:43",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:44",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:44",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:44",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:45",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:46",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:46",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:46",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:47",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:47",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:47",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:48",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:48",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:49",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:49",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:49",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:50",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:50",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:50",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:51",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:51",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:51",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:52",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:52",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:52",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:53",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:53",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:53",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:55",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 03:42:55",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:43",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:45",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:45",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:46",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:46",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:46",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:47",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:47",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:48",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:48",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:48",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:49",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:49",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:49",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:50",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:50",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:50",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:51",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:51",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:51",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:52",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:52",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:52",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:53",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:53",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:53",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:54",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:54",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:54",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:55",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:55",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:55",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:56",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:56",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:57",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:57",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:57",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:58",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:58",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:58",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:59",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:59",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:47:59",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:00",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:00",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:01",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:01",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:01",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:02",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:02",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:02",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:03",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:03",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:04",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:04",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:04",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:05",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:05",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:05",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:06",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:06",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:07",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:07",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:07",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:08",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:08",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:08",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:09",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:09",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:09",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:10",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:10",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:11",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:11",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:12",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:12",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:12",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:13",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:13",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:14",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:14",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:14",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:15",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:15",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:15",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:16",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:16",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:18",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:18",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:18",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:19",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:19",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:19",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:20",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:20",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:21",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:21",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:22",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:22",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:22",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:23",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:23",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:24",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:24",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:24",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:25",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:25",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:26",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:26",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:26",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:27",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:27",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:27",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:28",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:28",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:28",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:29",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:29",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:30",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:30",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:30",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:31",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:31",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:31",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:32",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:32",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:32",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:33",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:33",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:34",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:34",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:35",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:35",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:35",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:36",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:36",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:37",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:37",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:37",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:38",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:38",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:38",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:40",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:40",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:40",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:41",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:41",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:41",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:42",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:42",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:42",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:43",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:43",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:43",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:45",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:45",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:45",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:46",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:46",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:46",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:47",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:47",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:48",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:48",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:48",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 10:48:50",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:22",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:23",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:23",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:23",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:24",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:24",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:24",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:25",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:25",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:25",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:26",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:26",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:27",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:27",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:27",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:28",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:28",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:28",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:29",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:29",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:29",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:03:30",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:02",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:05",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:06",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:08",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:10",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:11",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:11",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:12",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:12",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:14",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:15",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:15",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:16",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:16",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:17",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:20",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:24",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:24",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:25",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:27",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:30",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:31",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:34",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:37",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:40",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:43",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:43",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:44",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:45",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:46",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:46",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:47",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:47",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:49",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:50",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:50",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:50",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:51",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:52",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:52",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:52",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:54",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:54",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:55",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:12:55",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:29",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:32",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:33",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:34",
+    "activity": "lying",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:35",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:36",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:38",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:38",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:38",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:39",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:39",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:40",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:43",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:46",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:46",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:47",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:48",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:49",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:49",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:50",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:50",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:51",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:54",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:57",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:58",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:59",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:17:59",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:00",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:00",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:01",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:01",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:04",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:07",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:10",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:13",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:13",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:14",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:14",
+    "activity": "sitting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:15",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:16",
+    "activity": "other",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:16",
+    "activity": "lying",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:17",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:18",
+    "activity": "lying",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:18",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:18",
+    "activity": "walking",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:19",
+    "activity": "lying",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:20",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:21",
+    "activity": "lying",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:21",
+    "activity": "fighting",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-03-26 13:18:22",
+    "activity": "other",
+    "confidence": 0.75
+  }
+]
